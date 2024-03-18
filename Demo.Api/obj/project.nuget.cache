@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOGp7C18NnFXhAUQ3o8xDBa4etLLyXWfDJUXtw9sPHcaUD71PRsJQmYQQK3Yj4pJQ1L/hbrJXdyTTWDA+VQl7A==",
+  "success": true,
+  "projectFilePath": "/Users/necatihan/RiderProjects/demoapi/Demo.Api/Demo.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/necatihan/.nuget/packages/fastendpoints/5.23.0/fastendpoints.5.23.0.nupkg.sha512",
+    "/Users/necatihan/.nuget/packages/fastendpoints.attributes/5.23.0/fastendpoints.attributes.5.23.0.nupkg.sha512",
+    "/Users/necatihan/.nuget/packages/fastendpoints.messaging.core/5.23.0/fastendpoints.messaging.core.5.23.0.nupkg.sha512",
+    "/Users/necatihan/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
