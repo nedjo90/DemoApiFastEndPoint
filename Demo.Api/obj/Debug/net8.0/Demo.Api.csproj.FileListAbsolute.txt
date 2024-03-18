@@ -21,3 +21,11 @@
 /Users/necatihan/RiderProjects/demoapi/Demo.Api/obj/Debug/net8.0/Demo.Api.pdb
 /Users/necatihan/RiderProjects/demoapi/Demo.Api/obj/Debug/net8.0/Demo.Api.genruntimeconfig.cache
 /Users/necatihan/RiderProjects/demoapi/Demo.Api/obj/Debug/net8.0/ref/Demo.Api.dll
+/Users/necatihan/RiderProjects/demoapi/Demo.Api/bin/Debug/net8.0/FastEndpoints.dll
+/Users/necatihan/RiderProjects/demoapi/Demo.Api/bin/Debug/net8.0/FastEndpoints.Attributes.dll
+/Users/necatihan/RiderProjects/demoapi/Demo.Api/bin/Debug/net8.0/FastEndpoints.Messaging.Core.dll
+/Users/necatihan/RiderProjects/demoapi/Demo.Api/bin/Debug/net8.0/FluentValidation.dll
+/Users/necatihan/RiderProjects/demoapi/Demo.Api/obj/Debug/net8.0/Demo.Api.csproj.AssemblyReference.cache
+/Users/necatihan/RiderProjects/demoapi/Demo.Api/obj/Debug/net8.0/Demo.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/necatihan/RiderProjects/demoapi/Demo.Api/obj/Debug/net8.0/Demo.Api.sourcelink.json
+/Users/necatihan/RiderProjects/demoapi/Demo.Api/obj/Debug/net8.0/Demo.Api.csproj.CopyComplete
